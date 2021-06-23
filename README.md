@@ -1,4 +1,4 @@
-## Animal-Detection-on-Agricultural-land-using-Computer-Vision-land-
+## Animal-Detection-on-Agricultural-land-using-Computer-Vision
 India is a country of farmers. Every farmer is worried about safety of crops from weeds, insects and see animal intrusion like elephant,cow and monkeys  etc. Using computer vision we can make animal detection system to detect animals and create alarm sound.
 ## Dataset
 
