@@ -5,4 +5,4 @@ India is a country of farmers. Every farmer is worried about safety of crops fro
 Data set of Indian elephants, cows and goats have been scraped from google images. Data set directory structure is shown below.
 Download the [train](https://drive.google.com/drive/folders/19XFxDlYrWMk4Y90bkoZM1H_JQMdQY4HL?usp=sharing) and [test set.](https://drive.google.com/drive/folders/1dQLj6-CHxBlEJaIGQm0NKldyPNYFONpS?usp=sharing)
 
-Here we have used transfer learning using inception VGG16 pre-trained model and also used data augmentation.
+Here we have used transfer learning using VGG16 pre-trained model and also used data augmentation.
